@@ -7,6 +7,6 @@ Large ST processed data for sequence prediction tasks
 
 ###You could train the sequence prediction task using the processed data. Input data and labels for three years are listed in CSV files.
 
-###These settings could be changed as your requirements. Please check the code and origin data.
+###These settings could be changed as your requirements. Please check the code and origin data: https://drive.google.com/drive/folders/10Do1bC_5oHe3x_fyieXTXTD190y8cp-4?usp=sharing.
 
 ### Author: Qiming Zhang
